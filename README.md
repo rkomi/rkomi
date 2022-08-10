@@ -80,6 +80,12 @@ An aspirant fullstack web-developer 👨‍💻 studying IT on an italian hight-
 
 <br/>  
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tri5qmm723u4uldt4btb7blpwe&cover_image=true&theme=compact" /></div>  
+
+<br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rkomi&&style=flat-square" align="center" />
 </div>  
@@ -89,6 +95,3 @@ An aspirant fullstack web-developer 👨‍💻 studying IT on an italian hight-
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
