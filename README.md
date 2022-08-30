@@ -86,9 +86,6 @@ An aspirant fullstack web-developer 👨‍💻 studying IT on an italian hight-
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rkomi&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
