@@ -82,8 +82,6 @@ An aspirant fullstack web-developer 👨‍💻 studying IT on an italian hight-
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tri5qmm723u4uldt4btb7blpwe&cover_image=true&theme=compact" /></div>  
-
 <br/>  
 
   
